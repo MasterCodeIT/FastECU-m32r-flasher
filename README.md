@@ -11,6 +11,7 @@ Tool to flash bricked Subaru Hitachi ECUs
   - Subaru Legacy 2.0 MY99 N/A
 
 ### Future supported devices
+- WA12212940WWW / UJ40 (K-Line)
 - WA12212970WWW / UJ70 (K-Line)
 - WA12212970WWW / UJ70 (CAN)
 
